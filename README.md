@@ -5,6 +5,6 @@
 - [Informacion general](https://github.com/uchileFI3104B-2018B/info-general)
 
 ## DEMOS
-- [Clase 1: Precision Numérica y Derivadas](https://github.com/uchileFI3104B-2018B/demo-precision-derivada)
+- [Clase 1: Precisión Numérica y Derivadas](https://github.com/uchileFI3104B-2018B/demo-precision-derivada)
 
 ## TAREAS
