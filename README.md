@@ -11,3 +11,4 @@
 ## TAREAS
 
 - [Tarea 1: 27-sept 23:59 hrs](https://github.com/uchileFI3104B-2018B/01-tarea)
+- [Tarea 2: 04-oct 23:59 hrs](https://github.com/uchileFI3104B-2018B/02-tarea)
