@@ -8,6 +8,7 @@
 - [Clase 1: Precisión Numérica y Derivadas](https://github.com/uchileFI3104B-2018B/demo-precision-derivada)
 - [Búsqueda de Raíces de una función](https://github.com/uchileFI3104B-2018B/demo-ceros)
 - [Algebra lineal](https://github.com/uchileFI3104B-2018B/demo-algebra-lineal)
+- [OOP, EDOs](https://github.com/uchileFI3104B-2017B/demo-oop)
 
 ## TAREAS
 
