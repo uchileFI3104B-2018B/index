@@ -10,6 +10,7 @@
 - [Algebra lineal](https://github.com/uchileFI3104B-2018B/demo-algebra-lineal)
 - [Runge-Kutta](https://github.com/uchileFI3104B-2018B/demo-rk2-pendulo)
 - [OOP, EDOs](https://github.com/uchileFI3104B-2017B/demo-oop)
+- [Sobre-relajacion](https://github.com/uchileFI3104B-2017B/demo-relajacion)
 
 ## TAREAS
 
