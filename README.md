@@ -23,3 +23,4 @@
 - [Tarea 6: 10-nov 23:59 hrs](https://github.com/uchileFI3104B-2018B/06-tarea): EDO, orbita planetaria.
 - [Tarea 7: 16-nov 23:59 hrs](https://github.com/uchileFI3104B-2018B/07-tarea): EDP, planta industrial.
 - [Tarea 8: 24-nov 23:59 hrs](https://github.com/uchileFI3104B-2018B/08-tarea): EDP, reacción difusión.
+- [Tarea 9: 30-nov 23:59 hrs](https://github.com/uchileFI3104B-2018B/09-tarea): CM sólido, Func. luminosidad.
