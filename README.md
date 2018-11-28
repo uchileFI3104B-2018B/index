@@ -12,6 +12,7 @@
 - [OOP, EDOs](https://github.com/uchileFI3104B-2017B/demo-oop)
 - [Sobre-relajacion](https://github.com/uchileFI3104B-2017B/demo-relajacion)
 - [Crank-Nicolson](https://github.com/uchileFI3104B-2018B/demo-crank-nicolson)
+- [Metodos aleatorios](https://github.com/uchileFI3104B-2017B/demo-aleatorios)
 
 ## TAREAS
 
