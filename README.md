@@ -13,6 +13,7 @@
 - [Sobre-relajacion](https://github.com/uchileFI3104B-2017B/demo-relajacion)
 - [Crank-Nicolson](https://github.com/uchileFI3104B-2018B/demo-crank-nicolson)
 - [Metodos aleatorios](https://github.com/uchileFI3104B-2018B/demo-aleatorios)
+- [Modelamiento de Datos](https://github.com/uchileFI3104B-2018B/demo-chi2-mc-bootstrp)
 
 ## TAREAS
 
