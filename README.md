@@ -15,6 +15,7 @@
 - [Metodos aleatorios](https://github.com/uchileFI3104B-2018B/demo-aleatorios)
 - [Modelamiento de Datos](https://github.com/uchileFI3104B-2018B/demo-chi2-mc-bootstrp)
 - [Test KS](https://github.com/uchileFI3104B-2018B/demo-ks)
+- [Bayes](https://github.com/uchileFI3104B-2018B/demo-bayesian-stats)
 
 ## TAREAS
 
